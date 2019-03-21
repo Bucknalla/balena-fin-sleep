@@ -1,6 +1,6 @@
 # BalenaFin Coprocessor Sleep Example
 
-To run the script:
+To run the script, ssh into the main container and run the following commands:
 
 ```
 $ cd app
